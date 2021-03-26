@@ -1,1 +1,1 @@
-Yote Bote
+The Game file will simulate the Mancala game. The AI file will find the best move.
